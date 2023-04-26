@@ -1,5 +1,12 @@
 # Pokemon GAI
 
+### Report
+https://github.com/IT5007-2220/course-project-felix-felicis/blob/main/IT%205007%20final%20report.pdf
+
+### Video demo
+https://drive.google.com/file/d/1FCA-4aOaTEeAOu24ibEyUPzIatkM6fBc/view?usp=sharing
+
+
 **Pokemon GAI** is a Web-based application based on generative artificial intelligence technology, specially designed to generate Pokémon for players. Users can generate information about the Pokémon such as attributes, names, and values, including attack, defense, and health. Each generated Pokémon will have a unique NFT token.
 
 * Login and Registration Function: AI Web App Generator requires users to log in or register to use all the features.
